@@ -1,0 +1,28 @@
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\bin\Debug\SPK_MASTER.exe
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\bin\Debug\SPK_MASTER.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\bin\Debug\SPK_MASTER.xml
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_utama.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\SPK_MASTER.vbproj.GenerateResource.Cache
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\SPK_MASTER.exe
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\SPK_MASTER.xml
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\SPK_MASTER.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_login.resources
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\SPK_MASTER.exe
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\SPK_MASTER.xml
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\SPK_MASTER.pdb
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\bin\Debug\SPK_MASTER.exe
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\bin\Debug\SPK_MASTER.pdb
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\bin\Debug\SPK_MASTER.xml
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_dbconfig.resources
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_login.resources
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_utama.resources
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\SPK_MASTER.vbproj.GenerateResource.Cache
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_dbconfig.resources
+C:\Users\Windows 10\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_user.resources
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_user.resources
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_ganti_paswd.resources
+C:\Users\SIDECOOL\Documents\Visual Studio 2008\Projects\SPK_MASTER\SPK_MASTER\obj\Debug\WindowsApplication1.f_kriteria.resources
